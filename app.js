@@ -1,4 +1,4 @@
-new Vue({
+var events = new Vue({
 	el: '#events',
 	data: {
 		event: { name: '', description: '', date: ''},
